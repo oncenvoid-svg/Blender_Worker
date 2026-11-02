@@ -1,0 +1,1 @@
+FROM nytimes/blender:latest
